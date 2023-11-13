@@ -8,7 +8,7 @@
 
 
 <h1>Hi, I'm Raphael, an <a href="https://linkedin.com/in/raphael-soares-691b57185">IT Professional</a></h1>
-<h2>👨‍💻 :</h2>
+<h2>👨‍💻:</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,10 +21,10 @@
 
 
 
-* Ticket System *
 
 
-👨‍💻 All of my projects are also available at Portfolio [www.rasoares.com](https://www.rasoares.com)
+
+👨‍💻 Check out my Portfolio [www.rasoares.com](https://www.rasoares.com)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/freebr31/osticket-prereqs)
