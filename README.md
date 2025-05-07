@@ -1,79 +1,168 @@
-
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-
-<h1>Hi, I'm Raphael, an <a href="https://linkedin.com/in/raphael-soares-691b57185">IT Professional</a></h1>
-<h2>👨‍💻:</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-👨‍💻 Check out my Portfolio [www.rasoares.com](https://www.rasoares.com)
-
-
-
-
-
-
-
-
-
-
-
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/freebr31/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/freebr31/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/freebr31/ticket-lifecycle)
-
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/freebr31/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/freebr31/azure-network-protols)
-  - [Setting Up Virtual Private Network(VPN)](https://github.com/freebr31/azure-vpn)
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <a <i class="devicon-android-plain-wordmark"></i> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="azure" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="azure" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
-
-
-           
-          
-            
-          
-            
-          
-          
-  
-          
-          
-          
-
-
-
-
-
-<h2>🤳Connect with me:</h2>
-
-<a href="https://twitter.com/rasoares_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasoares_it" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/raphael-soares-691b57185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphael-soares-691b57185/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE9PT7VnJqoww/profile-displaybackgroundimage-shrink_350_1400/B4EZaZRpY3GYAY-/0/1746328262911?e=1752105600&v=beta&t=46GhkaEMZx0pfgIQ2PTTItIBxUD6CzxA6fAoQq30pmw" alt="Cybersecurity Banner" width="100%">
 </p>
+
+<h1 align="center">🛡️ Cybersecurity Analyst Portfolio</h1>
+<p align="center"><i>Showcasing projects in Cybersecurity, Threat Detection, Cloud Security, and GRC.</i></p>
+
+
+---
+
+## 📂 About This Portfolio
+
+This repository features a collection of real-world cybersecurity projects from professional certifications, training programs, and personal exploration. Each project is carefully documented to demonstrate:
+
+- ✅ Security risk assessments & audits
+- ✅ Threat detection & incident response
+- ✅ Cloud IAM & infrastructure security
+- ✅ Scripting with Python & Bash
+- ✅ GRC implementation and compliance work
+- ✅ SIEM analysis & reporting
+
+---
+
+## 🧰 Tools & Technologies
+
+| Category              | Tools Used                                          |
+|-----------------------|-----------------------------------------------------|
+| Network Security      | Wireshark, Nmap, Snort                              |
+| Penetration Testing   | Kali Linux, Metasploit, Burp Suite                  |
+| Cloud Security        | Microsoft Azure, AWS                                |
+| Endpoint/Threat Mgmt  | Microsoft Defender, Wazuh, Suricata, Splunk         |
+| Identity Management   | Azure AD, Okta                                      |
+| Automation & Scripting| Python, Bash                                        |
+| SIEM                  | Splunk, Azure Sentinel                              |
+| Database Security     | SQL, MySQL                                          |
+
+---
+
+## 📌 Featured Projects
+
+### 🧼 Cyber Hygiene Audit Tool  
+A Python-based self-assessment script that evaluates personal cybersecurity habits, assigns a security score, and provides improvement tips.  
+🛠️ Created during 3MTT Cybersecurity training.
+
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/hygiene-tool.png" alt="Cyber Hygiene Tool Screenshot" width="80%"/>
+
+---
+
+### 📊 SOC Log Analysis with Splunk  
+Simulated a SOC environment to detect brute-force login attempts and suspicious behavior using Splunk dashboards.  
+Includes log filtering, alert creation, and visual analysis of login patterns.
+
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/splunk.png" alt="Splunk SOC Dashboard Screenshot" width="80%"/>
+
+---
+
+### 🧠 Threat Intelligence Automation (Python)  
+A Python script that fetches real-time CVE data from public APIs and scans logs for threat indicators.  
+Useful for alerting on critical vulnerabilities in live environments.
+
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/threat-intel.png" alt="Python Threat Script Screenshot" width="80%"/>
+
+---
+
+### 🔐 Azure AD IAM Lab  
+Role-based access control configuration using Azure Active Directory.  
+Demonstrates secure identity management, access policies, and conditional access setup.
+
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/azure-ad.png" alt="Azure IAM Screenshot" width="80%"/>
+
+---
+
+### 🧪 Nmap & Wireshark Lab  
+Used Nmap to scan network services and Wireshark to capture and analyze packets.  
+Identified open ports, insecure protocols, and suspicious traffic in sandbox environment.
+
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/wireshark-nmap.png" alt="Wireshark and Nmap Screenshot" width="80%"/>
+
+
+---
+
+## 📈 Learning & Certifications
+
+- 🎓 **Google Cybersecurity Analyst Certificate** *(Coursera, 2024)*
+- 🎓 **Microsoft Certified: Azure Fundamentals** *(2023)*
+- 🎓 **Dell Client Foundations** *(2024)*
+- 🎓 **Technical Support Fundamentals** *(Google, 2021)*
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **rasoares.cybertech@outlook.com**  
+- 🔗 [LinkedIn – Raphael Soares](https://www.linkedin.com/in/raphael-soares-691b57185)
+
+Feel free to connect to chat about security trends, methodologies, or opportunities!
+
+---
+
+## 📈 Future Projects 
+
+### 🔍 Security Log Correlation Playbook  
+Develop a documented process to identify common attack patterns by correlating logs across systems (e.g., failed logins + privilege escalation alerts).
+
+---
+
+### 🤖 Python Log Analyzer  
+Build a Python script to parse Windows or Linux log files and auto-flag suspicious activity using basic keyword or behavior patterns.
+
+---
+
+### ☁️ Azure Security Lab  
+Create a secure Azure environment with:
+- Identity and access controls (RBAC)
+- Logging and monitoring via Microsoft Defender for Cloud
+- Network security groups (NSGs)
+
+---
+
+### 🧪 Vulnerability Management Tracker  
+Build a lightweight tool or Excel/Google Sheet framework to track, prioritize, and report vulnerabilities found via tools like Nessus or OpenVAS.
+
+---
+
+### 🎯 Basic Red Team Lab (Local VM)  
+Use Kali Linux on a local VM to simulate attacks like:
+- Network scanning
+- Credential harvesting (within ethical bounds)
+- Hash cracking with John the Ripper
+
+---
+
+### 🛡️ MFA & Password Policy Testing  
+Evaluate different password policies and MFA configurations on test accounts to understand strengths, limitations, and user experience.
+
+---
+
+### 🔄 SOC Ticket Workflow Simulation  
+Mock a basic SOC workflow: alert > investigation > triage > escalation.  
+Document using flowcharts or a GitHub project board to simulate incident response.
+
+---
+
+### 📘 Security Awareness Campaign  
+Design a simple internal awareness toolkit for employees including:
+- Phishing simulation plan
+- Password hygiene checklist
+- Incident reporting flow
+
+
+
+---
+
+## 💡 About Me
+
+I’m a dedicated IT professional with a strong foundation in cybersecurity and hands-on experience in technical support and systems management. My journey began in IT operations, where I developed practical skills in troubleshooting, system reliability, and user support — and evolved into a growing focus on cybersecurity as a discipline and passion.
+
+I recently completed a Bachelor’s degree in Information Systems Technology, with a specialization in Cybersecurity, where I gained deep exposure to network defense, security frameworks, risk assessment, and incident response. Through academic projects, labs, and personal exploration, I’ve built practical experience with tools like Wireshark, Splunk, and Azure AD, while also strengthening my scripting and automation skills in Python and Bash.
+
+My current focus is on threat detection, endpoint protection, vulnerability management, and building systems that are not only functional — but secure by design. I thrive in environments where problem-solving, continuous learning, and collaboration intersect to drive meaningful impact.
+
+I'm always eager to connect with fellow professionals, share insights, and contribute to impactful cybersecurity initiatives that make systems smarter, safer, and more resilient.
+
+<p align="center">
+  <img src="https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/cybersecurity-banner.png?itok=UfzTqCT3" alt="Cybersecurity Footer" width="100%">
+</p>
+
+
