@@ -83,7 +83,6 @@ Identified open ports, insecure protocols, and suspicious traffic in sandbox env
 
 - 🎓 **Bachelor’s in Information Systems Technology – Cybersecurity** *(2025)*
 - 🎓 **Google Cybersecurity Analyst Certificate** *(Coursera, 2024)*
-- 🎓 **Microsoft Certified: Azure Fundamentals** *(2023)*
 - 🎓 **Dell Client Foundations** *(2024)*
 - 🎓 **Technical Support Fundamentals** *(Google, 2021)*
 - 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)** *(2023)*
