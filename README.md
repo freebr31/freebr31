@@ -101,21 +101,9 @@ Feel free to connect to chat about security trends, methodologies, or opportunit
 
 ## 📈 Future Projects 
 
-### 🔍 Security Log Correlation Playbook  
-Develop a documented process to identify common attack patterns by correlating logs across systems (e.g., failed logins + privilege escalation alerts).
-
----
 
 ### 🤖 Python Log Analyzer  
 Build a Python script to parse Windows or Linux log files and auto-flag suspicious activity using basic keyword or behavior patterns.
-
----
-
-### ☁️ Azure Security Lab  
-Create a secure Azure environment with:
-- Identity and access controls (RBAC)
-- Logging and monitoring via Microsoft Defender for Cloud
-- Network security groups (NSGs)
 
 ---
 
