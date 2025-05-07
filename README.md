@@ -42,7 +42,7 @@ This repository features a collection of real-world cybersecurity projects from 
 🛠️ A Python-based self-assessment script that evaluates personal cybersecurity habits, assigns a security score, and provides improvement tips.  
 
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/hygiene-tool.png" alt="Cyber Hygiene Tool Screenshot" width="80%"/>
+<img src="<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*bqvIu94gFLk_dNtv" width="300" alt="Example image">"/>
 
 ---
 
@@ -50,7 +50,7 @@ This repository features a collection of real-world cybersecurity projects from 
 Simulated a SOC environment to detect brute-force login attempts and suspicious behavior using Splunk dashboards.  
 Includes log filtering, alert creation, and visual analysis of login patterns.
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/splunk.png" alt="Splunk SOC Dashboard Screenshot" width="80%"/>
+<img src="https://www.splunk.com/content/dam/splunk2/en_us/images/screenshots/products/category-security/securityposture-es.png" width="300" alt="Example image">"/>
 
 ---
 
@@ -58,7 +58,7 @@ Includes log filtering, alert creation, and visual analysis of login patterns.
 A Python script that fetches real-time CVE data from public APIs and scans logs for threat indicators.  
 Useful for alerting on critical vulnerabilities in live environments.
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/threat-intel.png" alt="Python Threat Script Screenshot" width="80%"/>
+<img src="https://pythoncentral.io/wp-content/uploads/2023/08/Automated-Threat-Detection.png" width="300" alt="Example image">"/>
 
 ---
 
@@ -66,7 +66,7 @@ Useful for alerting on critical vulnerabilities in live environments.
 Role-based access control configuration using Azure Active Directory.  
 Demonstrates secure identity management, access policies, and conditional access setup.
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/azure-ad.png" alt="Azure IAM Screenshot" width="80%"/>
+<img src="https://clouddocs.f5.com/training/community/iam/html/_images/00113.png" width="300" alt="Example image">"/>
 
 ---
 
@@ -74,7 +74,7 @@ Demonstrates secure identity management, access policies, and conditional access
 Used Nmap to scan network services and Wireshark to capture and analyze packets.  
 Identified open ports, insecure protocols, and suspicious traffic in sandbox environment.
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/wireshark-nmap.png" alt="Wireshark and Nmap Screenshot" width="80%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5612AQHtCNHEHq4p_Q/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1658095067176?e=1752105600&v=beta&t=7A2qU_Wba2kEhYDJygiPyl_DzjUVVriD4IFOfpDABpE" width="300" alt="Example image">" />
 
 
 ---
