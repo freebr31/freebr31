@@ -39,8 +39,8 @@ This repository features a collection of real-world cybersecurity projects from 
 ## 📌 Featured Projects
 
 ### 🧼 Cyber Hygiene Audit Tool  
-A Python-based self-assessment script that evaluates personal cybersecurity habits, assigns a security score, and provides improvement tips.  
-🛠️ Created during 3MTT Cybersecurity training.
+🛠️ A Python-based self-assessment script that evaluates personal cybersecurity habits, assigns a security score, and provides improvement tips.  
+
 
 <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/hygiene-tool.png" alt="Cyber Hygiene Tool Screenshot" width="80%"/>
 
